@@ -1,8 +1,8 @@
 {
-  "name": "necrobotvisualizer",
+  "name": "Gerrykelvin-Visualizer",
   "version": "1.0.9",
-  "description": "Pokemon Bot Visualizer",
-  "author": "Nicolas Schmitt",
+  "description": "Gerrykelvin Bot Visualizer",
+  "author": "Gerrykelvin",
   "main": "main.js",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"

@@ -32,7 +32,7 @@ gulp.task('deploy', ['dev-styles'], function() {
       '!./app/node_modules/**/*'
     ])
     .pipe(file('CNAME', "necrovisualizer.nicontoso.eu"))
-    .pipe(ghPages({remoteUrl: "https://github.com/nicoschmitt/necrobotvisualizer"}));
+    .pipe(ghPages({remoteUrl: "https://github.com/ntatoo/necrobotvisualizer"}));
 });
 
 // Main tasks
